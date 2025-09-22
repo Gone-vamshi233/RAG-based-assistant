@@ -3,3 +3,7 @@ openai
 chromadb
 faiss-cpu
 tiktoken
+streamlit
+sentence-transformers
+numpy
+
