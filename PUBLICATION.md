@@ -38,7 +38,7 @@ Add a new section after System Overview or Tools & Frameworks.
 💻 **Installation Instructions**
 
 1. Clone the repository:
-   git clone https://github.com/your-username/rag-assistant.git
+   git clone https://github.com/gone-vamshi233/rag-assistant.git
 2. Navigate to the project folder:
    cd rag-assistant
 3. Create a virtual environment and activate it:
