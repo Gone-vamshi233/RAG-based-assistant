@@ -36,7 +36,7 @@ The system ingests documents, chunks them into smaller sections, generates embed
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/rag-assistant.git
+   git clone https://github.com/gone-vamshi233/rag-assistant.git
    cd rag-assistant
 2.Create a virtual environment and activate it:
    ```bash
